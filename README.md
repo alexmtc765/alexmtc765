@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alexmtc765
 - 👀 I’m interested in nothing
-- 🌱 I’m currently learning nothing
+- 🌱 I’m currently learning lua
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me, don't
 
