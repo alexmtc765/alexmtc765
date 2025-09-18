@@ -1,4 +1,4 @@
-## Intro
+## Info
 - 👋 Hi, I’m @alexmtc765
 - 📚 Im a student at Wilfrid Laurier University who is currently studying Computer Science
 
