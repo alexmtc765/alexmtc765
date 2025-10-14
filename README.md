@@ -5,6 +5,7 @@
 ## Knowledge
 - Python
 - Lua
+- HTML/CSS
 - Javascript
 - C
 
