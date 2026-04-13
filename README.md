@@ -1,11 +1,10 @@
 ## Info
 - 👋 Hi, I’m @alexmtc765
-- 📚 Im a student who is currently studying Computer Science (BSc)
+- 📚 Computer Science (BSc)
 
 ## Knowledge
 - Python
 - Lua
-- HTML/CSS
 - Javascript
 - C
 
